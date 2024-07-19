@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Frontend Developer",
+    "company": "Siberian Bear",
+    "icon": "/company/sm.png",
+    "iconBg": "#000000",
+    "date": "August 2023 - Present",
+    "points": ["Work", "Work", "Work"]
+  },
+  {
+    "title": "Fullstack Developer",
+    "company": "Luna Apps",
+    "icon": "/company/luna.ico",
+    "iconBg": "#000000",
+    "date": "July 2022 - August 2023",
+    "points": ["Work", "Work", "Work"]
+  }
+]

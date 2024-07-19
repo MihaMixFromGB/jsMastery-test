@@ -1,0 +1,262 @@
+[
+  {
+    "title": "Frontend",
+    "groups": [
+      {
+        "title": "Base",
+        "skills": [
+          {
+            "title": "HTML",
+            "icon": "/stack/html.svg"
+          },
+          {
+            "title": "CSS",
+            "icon": "stack/css.svg"
+          },
+          {
+            "title": "JavaScript",
+            "icon": "/stack/javascript.svg"
+          },
+          {
+            "title": "TypeScript",
+            "icon": "/stack/typescript.svg"
+          }
+        ]
+      },
+      {
+        "title": "UI",
+        "skills": [
+          {
+            "title": "React",
+            "icon": "/stack/react.svg"
+          },
+          {
+            "title": "Next",
+            "icon": "/stack/next.svg"
+          },
+          {
+            "title": "Material UI",
+            "icon": "/stack/material-ui.svg"
+          },
+          {
+            "title": "Bootstrap 5",
+            "icon": "/stack/bootstrap.svg"
+          },
+          {
+            "title": "Aceternity UI",
+            "icon": "/stack/aceternity-ui.png"
+          }
+        ]
+      },
+      {
+        "title": "Stylization",
+        "skills": [
+          {
+            "title": "SASS/SCSS",
+            "icon": "/stack/sass.svg"
+          },
+          {
+            "title": "Styled Components",
+            "icon": "/stack/styled-components.svg"
+          },
+          {
+            "title": "Tailwind CSS",
+            "icon": "/stack/tailwind.svg"
+          },
+          {
+            "title": "Twin",
+            "icon": "/stack/twin.png"
+          }
+        ]
+      },
+      {
+        "title": "State Management",
+        "skills": [
+          {
+            "title": "Redux Toolkit",
+            "icon": "/stack/redux.svg"
+          },
+          {
+            "title": "Mobx",
+            "icon": "/stack/mobx.svg"
+          }
+        ]
+      },
+      {
+        "title": "Data Fetching",
+        "skills": [
+          {
+            "title": "Tanstack Query (React Query)",
+            "icon": "/stack/react-query.svg"
+          },
+          {
+            "title": "RTK Query",
+            "icon": "/stack/redux.svg"
+          },
+          {
+            "title": "Axios",
+            "icon": "/stack/axios.svg"
+          },
+          {
+            "title": "WebSocket",
+            "icon": "/stack/websocket.svg"
+          },
+          {
+            "title": "Socket.io",
+            "icon": "/stack/socketio.svg"
+          },
+          {
+            "title": "WebRTC",
+            "icon": "/stack/webrtc.svg"
+          }
+        ]
+      },
+      {
+        "title": "Routing",
+        "skills": [
+          {
+            "title": "React Router",
+            "icon": "/stack/react-router.svg"
+          }
+        ]
+      },
+      {
+        "title": "Form Handling",
+        "skills": [
+          {
+            "title": "Formik",
+            "icon": "/stack/formik.png"
+          },
+          {
+            "title": "React Hook Form",
+            "icon": "/stack/react-hook-form.png"
+          }
+        ]
+      },
+      {
+        "title": "Animation",
+        "skills": [
+          {
+            "title": "Framer Motion",
+            "icon": "/stack/framer-motion.png"
+          },
+          {
+            "title": "React Spring",
+            "icon": "/stack/react-spring.png"
+          }
+        ]
+      },
+      {
+        "title": "Testing",
+        "skills": [
+          {
+            "title": "Jest",
+            "icon": "/stack/jest.svg"
+          },
+          {
+            "title": "React Testing Library",
+            "icon": "/stack/rtl.svg"
+          }
+        ]
+      },
+      {
+        "title": "Bundling",
+        "skills": [
+          {
+            "title": "Vite",
+            "icon": "/stack/vite.svg"
+          },
+          {
+            "title": "Webpack",
+            "icon": "/stack/webpack.svg"
+          },
+          {
+            "title": "Module Federation",
+            "icon": "/stack/module-federation.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Architectural design",
+    "groups": [
+      {
+        "title": "Frontend",
+        "skills": [
+          {
+            "title": "Feature-Sliced Design",
+            "icon": "/stack/fsd.png"
+          },
+          {
+            "title": "Micro Frontends",
+            "icon": "/stack/micro-frontends.png"
+          }
+        ]
+      },
+      {
+        "title": "API",
+        "skills": [
+          {
+            "title": "Rest API",
+            "icon": "/stack/rest-api.svg"
+          },
+          {
+            "title": "GraphQL",
+            "icon": "/stack/graphql.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Backend",
+    "groups": [
+      {
+        "skills": [
+          {
+            "title": "Node.js",
+            "icon": "/stack/nodejs.svg"
+          },
+          {
+            "title": "Nest",
+            "icon": "/stack/nest.svg"
+          },
+          {
+            "title": "TypeORM",
+            "icon": "/stack/typeorm.svg"
+          },
+          {
+            "title": "PostgreSQL",
+            "icon": "/stack/postgresql.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "DevOps",
+    "groups": [
+      {
+        "skills": [
+          {
+            "title": "Git",
+            "icon": "/stack/git.svg"
+          },
+          {
+            "title": "Docker",
+            "icon": "/stack/docker.svg"
+          },
+          {
+            "title": "CI / CD",
+            "icon": "/stack/ci-cd.svg"
+          },
+          {
+            "title": "Vercel",
+            "icon": "/stack/vercel.svg"
+          }
+        ]
+      }
+    ]
+  }
+]
