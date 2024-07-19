@@ -1,8 +1,24 @@
-// import { BentoGrid, BentoGridItem } from "./BentoGrid";
+import { BentoGrid, BentoGridItem } from "./BentoGrid";
 import AnimatedTooltip from "./AnimatedTolltip";
 
 const TechStack = () => {
   const items = [
+    {
+      title: "Frontend",
+      className: "md:col-span-3",
+    },
+    {
+      title: "Architecture",
+    },
+    {
+      title: "Backend",
+    },
+    {
+      title: "DevOps",
+    },
+  ];
+
+  const stack = [
     {
       id: 1,
       name: "HTML",
@@ -21,9 +37,18 @@ const TechStack = () => {
   ];
 
   return (
-    <div className="flex flex-row items-center justify-center w-full">
-      <AnimatedTooltip items={items} />
-    </div>
+    <BentoGrid className="w-full m-5">
+      {items.map((item, idx) => (
+        <BentoGridItem key={idx} className={item.className}>
+          {item.title}
+          {idx === 0 && (
+            <div className="flex flex-row items-center w-full">
+              <AnimatedTooltip items={stack} />
+            </div>
+          )}
+        </BentoGridItem>
+      ))}
+    </BentoGrid>
   );
 };
 
